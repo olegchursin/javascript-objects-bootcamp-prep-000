@@ -5,6 +5,6 @@ var playlist = {
 };
 
 function updatePlaylist(playlist,artistName,songTitle) {
-  playlist['Guns and Roses'] = "Welcome to the Jungle";
+  playlist['artistName'] = "songTitle";
   return playlist
 };
